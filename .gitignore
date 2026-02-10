@@ -1,0 +1,11 @@
+node_modules
+dist
+.vite
+
+.DS_Store
+
+# External dependencies / templates
+skills-main/
+
+# Assignment / course materials
+файлы, которые могут помочь/
